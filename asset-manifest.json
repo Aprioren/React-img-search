@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aprioren/React-img-search/static/css/main.c9969133.css",
+    "main.js": "/Aprioren/React-img-search/static/js/main.bfa4b551.js",
+    "index.html": "/Aprioren/React-img-search/index.html",
+    "main.c9969133.css.map": "/Aprioren/React-img-search/static/css/main.c9969133.css.map",
+    "main.bfa4b551.js.map": "/Aprioren/React-img-search/static/js/main.bfa4b551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9969133.css",
+    "static/js/main.bfa4b551.js"
+  ]
+}
