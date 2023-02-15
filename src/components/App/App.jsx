@@ -34,7 +34,7 @@ export const App = () => {
   useEffect(() => {
     if (!query) return;
     fetchData(page, query);
-  }, [page, query]);
+  }, [page, query, fetchData]);
 
   const fetchData = async () => {
     const perPage = 12;
